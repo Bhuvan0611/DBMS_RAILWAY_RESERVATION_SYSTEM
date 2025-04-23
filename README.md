@@ -64,5 +64,13 @@ All tables are **normalized** and follow **Third Normal Form (3NF)** to reduce r
 
 ---
 
+## 🎥 Video Demonstration
+
+Watch the working demo of the Indian Railway Reservation System here:  
+🔗 [Click to View Presentation](https://drive.google.com/file/d/1DMkkeXAfjJ1iBL5TdVtXlCoIB6wkUZRz/view?usp=drivesdk)
+
+
+---
+
 This project reflects strong database design practices with advanced SQL logic and is a complete working model of a simplified railway booking system.
 
