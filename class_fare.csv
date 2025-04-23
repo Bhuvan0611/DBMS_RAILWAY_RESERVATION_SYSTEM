@@ -1,0 +1,5 @@
+fare_id,class_type,base_fare_per_km
+1,Sleeper,1.4
+2,AC 3-Tier,1.86
+3,AC 2-Tier,1.19
+4,First Class,2.26

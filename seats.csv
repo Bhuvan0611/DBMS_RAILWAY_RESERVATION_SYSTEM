@@ -1,0 +1,301 @@
+seat_id,schedule_id,coach_number,seat_number,class_type,booking_status
+1,1,C1,13,Sleeper,Waitlisted
+2,1,C2,30,First Class,RAC
+3,1,C2,23,First Class,Booked
+4,1,C1,10,AC 3-Tier,Available
+5,1,C3,24,Sleeper,RAC
+6,1,C1,2,First Class,Booked
+7,1,C1,17,Sleeper,Booked
+8,1,C1,20,Sleeper,Booked
+9,1,C2,4,AC 3-Tier,Available
+10,1,C3,3,First Class,RAC
+11,1,C2,7,AC 2-Tier,Booked
+12,1,C2,13,AC 3-Tier,RAC
+13,1,C2,11,Sleeper,Available
+14,1,C2,20,Sleeper,Available
+15,1,C3,7,AC 2-Tier,Booked
+16,1,C2,29,Sleeper,Booked
+17,1,C2,10,AC 3-Tier,Waitlisted
+18,1,C3,23,AC 2-Tier,Available
+19,1,C3,27,AC 2-Tier,Available
+20,1,C1,9,Sleeper,Available
+21,1,C3,18,AC 3-Tier,RAC
+22,1,C2,20,AC 3-Tier,RAC
+23,1,C1,22,AC 2-Tier,Waitlisted
+24,1,C2,29,Sleeper,Available
+25,1,C3,14,AC 2-Tier,Available
+26,1,C1,11,AC 3-Tier,RAC
+27,1,C1,24,First Class,Waitlisted
+28,1,C3,1,Sleeper,Available
+29,1,C3,29,AC 3-Tier,Available
+30,1,C2,19,AC 3-Tier,Waitlisted
+31,2,C1,2,AC 2-Tier,RAC
+32,2,C1,29,AC 2-Tier,Booked
+33,2,C3,8,Sleeper,RAC
+34,2,C3,29,First Class,Booked
+35,2,C1,28,AC 3-Tier,Booked
+36,2,C2,1,AC 3-Tier,RAC
+37,2,C2,26,AC 3-Tier,RAC
+38,2,C1,26,Sleeper,Waitlisted
+39,2,C1,28,First Class,Booked
+40,2,C1,27,First Class,RAC
+41,2,C2,27,AC 3-Tier,Booked
+42,2,C1,22,AC 3-Tier,Waitlisted
+43,2,C2,9,Sleeper,RAC
+44,2,C2,21,First Class,RAC
+45,2,C1,4,AC 2-Tier,Booked
+46,2,C3,9,Sleeper,Available
+47,2,C3,14,AC 2-Tier,RAC
+48,2,C2,20,Sleeper,Waitlisted
+49,2,C3,7,AC 2-Tier,Available
+50,2,C3,14,Sleeper,Booked
+51,2,C2,14,Sleeper,RAC
+52,2,C3,11,Sleeper,RAC
+53,2,C3,10,First Class,RAC
+54,2,C2,23,AC 2-Tier,Booked
+55,2,C1,14,First Class,Booked
+56,2,C3,19,AC 2-Tier,Waitlisted
+57,2,C3,27,Sleeper,RAC
+58,2,C2,7,First Class,RAC
+59,2,C2,15,First Class,Booked
+60,2,C3,16,AC 3-Tier,Available
+61,3,C2,17,AC 2-Tier,Available
+62,3,C1,22,AC 2-Tier,Booked
+63,3,C1,5,Sleeper,Available
+64,3,C1,16,Sleeper,Waitlisted
+65,3,C2,29,AC 3-Tier,Waitlisted
+66,3,C2,13,AC 3-Tier,Booked
+67,3,C3,23,Sleeper,Available
+68,3,C2,8,AC 3-Tier,Waitlisted
+69,3,C1,18,AC 3-Tier,Available
+70,3,C2,5,First Class,RAC
+71,3,C2,20,First Class,Waitlisted
+72,3,C1,24,First Class,Waitlisted
+73,3,C2,25,AC 3-Tier,RAC
+74,3,C3,16,AC 3-Tier,RAC
+75,3,C2,3,AC 2-Tier,Booked
+76,3,C2,11,AC 2-Tier,Available
+77,3,C1,5,AC 3-Tier,Waitlisted
+78,3,C3,5,AC 3-Tier,Available
+79,3,C2,14,AC 2-Tier,Waitlisted
+80,3,C2,2,AC 3-Tier,Waitlisted
+81,3,C2,29,Sleeper,Waitlisted
+82,3,C2,1,AC 2-Tier,RAC
+83,3,C2,28,First Class,Booked
+84,3,C2,8,AC 2-Tier,Waitlisted
+85,3,C2,1,First Class,RAC
+86,3,C3,22,First Class,Booked
+87,3,C2,30,AC 3-Tier,Available
+88,3,C2,19,Sleeper,Available
+89,3,C3,14,AC 3-Tier,Waitlisted
+90,3,C1,2,AC 2-Tier,Waitlisted
+91,4,C2,7,First Class,RAC
+92,4,C2,25,First Class,RAC
+93,4,C2,9,Sleeper,Waitlisted
+94,4,C1,24,Sleeper,RAC
+95,4,C1,21,Sleeper,Available
+96,4,C1,8,AC 3-Tier,Available
+97,4,C3,5,AC 3-Tier,Booked
+98,4,C2,22,Sleeper,Booked
+99,4,C2,23,AC 2-Tier,RAC
+100,4,C1,20,Sleeper,Booked
+101,4,C2,4,Sleeper,RAC
+102,4,C3,22,First Class,Waitlisted
+103,4,C3,7,Sleeper,Booked
+104,4,C1,23,AC 2-Tier,Available
+105,4,C3,26,Sleeper,RAC
+106,4,C3,14,AC 2-Tier,Available
+107,4,C3,21,AC 2-Tier,Available
+108,4,C2,27,First Class,Available
+109,4,C2,12,First Class,Booked
+110,4,C2,6,AC 2-Tier,Waitlisted
+111,4,C2,14,AC 2-Tier,RAC
+112,4,C1,27,Sleeper,RAC
+113,4,C2,8,First Class,Waitlisted
+114,4,C2,1,First Class,RAC
+115,4,C1,16,AC 3-Tier,RAC
+116,4,C2,11,AC 2-Tier,RAC
+117,4,C3,1,AC 3-Tier,Available
+118,4,C1,24,First Class,Waitlisted
+119,4,C3,25,AC 3-Tier,Waitlisted
+120,4,C3,23,First Class,Waitlisted
+121,5,C1,3,AC 2-Tier,Booked
+122,5,C2,23,AC 3-Tier,RAC
+123,5,C3,19,AC 2-Tier,Waitlisted
+124,5,C3,17,AC 2-Tier,Waitlisted
+125,5,C3,18,AC 2-Tier,RAC
+126,5,C3,15,AC 2-Tier,RAC
+127,5,C2,8,Sleeper,Booked
+128,5,C2,4,AC 3-Tier,Booked
+129,5,C1,24,First Class,RAC
+130,5,C3,19,AC 2-Tier,Available
+131,5,C1,10,AC 3-Tier,RAC
+132,5,C1,10,Sleeper,Booked
+133,5,C2,2,Sleeper,RAC
+134,5,C3,5,First Class,Available
+135,5,C1,19,AC 2-Tier,Waitlisted
+136,5,C2,15,AC 2-Tier,Booked
+137,5,C1,9,First Class,Available
+138,5,C1,13,First Class,Available
+139,5,C3,21,Sleeper,Booked
+140,5,C1,26,AC 2-Tier,Available
+141,5,C1,4,First Class,Booked
+142,5,C3,13,First Class,Waitlisted
+143,5,C2,28,First Class,RAC
+144,5,C3,20,Sleeper,Available
+145,5,C1,21,AC 3-Tier,RAC
+146,5,C3,3,AC 3-Tier,Booked
+147,5,C1,18,Sleeper,Booked
+148,5,C1,14,First Class,Waitlisted
+149,5,C2,2,AC 3-Tier,RAC
+150,5,C3,10,First Class,Available
+151,6,C3,8,AC 2-Tier,Booked
+152,6,C2,4,AC 3-Tier,Booked
+153,6,C2,27,AC 3-Tier,Available
+154,6,C1,6,AC 2-Tier,RAC
+155,6,C2,4,First Class,RAC
+156,6,C3,13,AC 2-Tier,Waitlisted
+157,6,C2,3,Sleeper,Waitlisted
+158,6,C3,11,AC 2-Tier,Available
+159,6,C1,8,Sleeper,RAC
+160,6,C3,2,AC 3-Tier,Waitlisted
+161,6,C3,21,First Class,RAC
+162,6,C1,19,First Class,Waitlisted
+163,6,C1,16,AC 2-Tier,Waitlisted
+164,6,C2,11,Sleeper,Booked
+165,6,C2,14,First Class,RAC
+166,6,C3,13,Sleeper,Waitlisted
+167,6,C1,11,AC 2-Tier,RAC
+168,6,C1,25,First Class,Available
+169,6,C3,28,First Class,Waitlisted
+170,6,C1,7,AC 2-Tier,Waitlisted
+171,6,C3,15,Sleeper,Booked
+172,6,C2,18,AC 3-Tier,RAC
+173,6,C2,29,First Class,Available
+174,6,C1,21,AC 3-Tier,Booked
+175,6,C2,18,Sleeper,Waitlisted
+176,6,C1,8,Sleeper,Waitlisted
+177,6,C1,21,AC 3-Tier,Waitlisted
+178,6,C3,10,AC 2-Tier,Waitlisted
+179,6,C2,16,AC 3-Tier,Waitlisted
+180,6,C3,5,First Class,Booked
+181,7,C3,17,AC 3-Tier,Available
+182,7,C2,25,First Class,RAC
+183,7,C3,9,Sleeper,RAC
+184,7,C3,10,First Class,Booked
+185,7,C2,18,First Class,RAC
+186,7,C2,18,First Class,Waitlisted
+187,7,C2,28,AC 3-Tier,Booked
+188,7,C3,13,AC 3-Tier,Waitlisted
+189,7,C1,11,First Class,Waitlisted
+190,7,C2,22,AC 3-Tier,Waitlisted
+191,7,C1,5,AC 2-Tier,Available
+192,7,C2,4,First Class,Available
+193,7,C3,5,First Class,Booked
+194,7,C1,16,AC 2-Tier,RAC
+195,7,C3,23,First Class,Available
+196,7,C2,28,First Class,RAC
+197,7,C3,23,First Class,Available
+198,7,C3,3,AC 3-Tier,RAC
+199,7,C1,24,Sleeper,Waitlisted
+200,7,C1,25,Sleeper,Waitlisted
+201,7,C1,23,AC 2-Tier,Available
+202,7,C1,11,Sleeper,RAC
+203,7,C2,12,First Class,Booked
+204,7,C1,17,First Class,Booked
+205,7,C1,6,Sleeper,Waitlisted
+206,7,C3,22,AC 3-Tier,Waitlisted
+207,7,C3,5,AC 3-Tier,Waitlisted
+208,7,C3,9,First Class,RAC
+209,7,C3,1,First Class,RAC
+210,7,C3,18,AC 3-Tier,Available
+211,8,C2,12,AC 2-Tier,Waitlisted
+212,8,C3,9,First Class,RAC
+213,8,C1,13,First Class,Available
+214,8,C1,13,AC 2-Tier,RAC
+215,8,C3,10,Sleeper,Waitlisted
+216,8,C2,1,Sleeper,Waitlisted
+217,8,C2,25,AC 3-Tier,RAC
+218,8,C1,21,AC 3-Tier,RAC
+219,8,C3,25,AC 3-Tier,Available
+220,8,C3,21,Sleeper,RAC
+221,8,C2,2,AC 2-Tier,Booked
+222,8,C1,30,AC 2-Tier,RAC
+223,8,C3,14,AC 3-Tier,Booked
+224,8,C1,26,AC 2-Tier,RAC
+225,8,C1,9,First Class,RAC
+226,8,C3,28,AC 2-Tier,Available
+227,8,C2,3,AC 3-Tier,Booked
+228,8,C3,24,First Class,RAC
+229,8,C1,26,First Class,Available
+230,8,C2,18,Sleeper,Waitlisted
+231,8,C2,22,AC 2-Tier,Waitlisted
+232,8,C3,12,Sleeper,Booked
+233,8,C2,1,AC 2-Tier,Booked
+234,8,C3,3,First Class,RAC
+235,8,C3,14,Sleeper,Booked
+236,8,C1,2,AC 2-Tier,Waitlisted
+237,8,C1,4,AC 3-Tier,Booked
+238,8,C2,15,AC 2-Tier,Waitlisted
+239,8,C3,24,AC 3-Tier,Waitlisted
+240,8,C3,4,First Class,Waitlisted
+241,9,C2,2,AC 2-Tier,Booked
+242,9,C2,15,AC 3-Tier,RAC
+243,9,C1,22,AC 2-Tier,RAC
+244,9,C1,13,AC 2-Tier,Booked
+245,9,C1,28,First Class,Available
+246,9,C3,7,Sleeper,Available
+247,9,C2,8,AC 3-Tier,Booked
+248,9,C1,27,AC 3-Tier,Booked
+249,9,C1,11,AC 3-Tier,Available
+250,9,C2,28,AC 3-Tier,Booked
+251,9,C3,9,AC 3-Tier,Available
+252,9,C3,28,Sleeper,Booked
+253,9,C1,12,AC 3-Tier,RAC
+254,9,C1,6,AC 2-Tier,Available
+255,9,C1,24,First Class,Available
+256,9,C3,3,First Class,Waitlisted
+257,9,C2,17,Sleeper,Waitlisted
+258,9,C3,8,Sleeper,RAC
+259,9,C2,21,Sleeper,Available
+260,9,C2,28,First Class,Waitlisted
+261,9,C3,4,First Class,Waitlisted
+262,9,C1,29,Sleeper,RAC
+263,9,C3,5,Sleeper,Booked
+264,9,C2,20,AC 2-Tier,Waitlisted
+265,9,C3,17,AC 2-Tier,Waitlisted
+266,9,C3,20,First Class,Available
+267,9,C3,4,AC 3-Tier,Waitlisted
+268,9,C2,29,AC 3-Tier,Waitlisted
+269,9,C2,27,First Class,Waitlisted
+270,9,C2,24,Sleeper,RAC
+271,10,C2,11,AC 2-Tier,RAC
+272,10,C1,22,First Class,Available
+273,10,C1,27,Sleeper,Available
+274,10,C2,4,AC 2-Tier,Booked
+275,10,C3,2,AC 2-Tier,Available
+276,10,C2,12,First Class,Available
+277,10,C2,20,AC 2-Tier,RAC
+278,10,C1,19,AC 3-Tier,Booked
+279,10,C3,16,AC 3-Tier,Available
+280,10,C2,28,AC 2-Tier,Available
+281,10,C2,19,AC 3-Tier,Waitlisted
+282,10,C3,25,Sleeper,RAC
+283,10,C1,6,AC 2-Tier,RAC
+284,10,C2,12,Sleeper,Booked
+285,10,C1,19,First Class,Available
+286,10,C1,24,Sleeper,Available
+287,10,C3,17,AC 3-Tier,Waitlisted
+288,10,C2,15,AC 2-Tier,Booked
+289,10,C2,10,AC 2-Tier,Available
+290,10,C1,5,AC 3-Tier,Available
+291,10,C3,3,AC 2-Tier,Waitlisted
+292,10,C3,14,First Class,Waitlisted
+293,10,C2,9,AC 3-Tier,Available
+294,10,C2,14,Sleeper,RAC
+295,10,C3,22,First Class,RAC
+296,10,C1,8,First Class,Available
+297,10,C1,7,AC 2-Tier,Booked
+298,10,C1,25,AC 2-Tier,RAC
+299,10,C2,4,Sleeper,Waitlisted
+300,10,C3,14,AC 3-Tier,Booked
